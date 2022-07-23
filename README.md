@@ -1,2 +1,4 @@
 # church-worship-songs
-Worship songs for Church
+
+Worship songs for City Harvest AG Church
+http://chag.in/
